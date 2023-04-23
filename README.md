@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I'm Felix.
+🔭 I’m currently working on timetable scheduler application.
+I love coffee. haha
 <!--
 **FelixLee-hub12/FelixLee-hub12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
